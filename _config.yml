@@ -76,3 +76,7 @@ types:
   - minor
   - major
   - documentation
+
+labels:
+  - wip
+  - tbd

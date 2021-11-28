@@ -73,6 +73,9 @@
 			<div class="page-header">
 				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
 				<h3>{{ page.title }}</h3>
+        {% if page.label %}
+          <p><span class="doc_label {{ page.label }}">{{ page.label }}</span></p>
+        {% endif %}
 			</div>
 			<article class="content">
 				{{ content }}
