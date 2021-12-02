@@ -1,6 +1,6 @@
 ---
 title: Status/To-Do list
-category: Status
+category: General
 order: 1
 label: tbd
 ---
