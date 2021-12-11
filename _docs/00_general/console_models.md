@@ -29,7 +29,7 @@ label: wip
 [boot_a13_rev_a.dts]: /files/dts/boot_a13_rev_a.dts
 [boot_ps5000.dts]: /files/dts/boot_ps5000.dts
 
-## Differences amomg A12 Models
+## Differences among A12 Models
 
 ### A12 Rev A
 Function keys have a different mapping. B, C & D share the same mapping:
