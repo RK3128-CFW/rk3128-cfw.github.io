@@ -29,9 +29,9 @@ label: wip
 [boot_a13_rev_a.dts]: /files/dts/boot_a13_rev_a.dts
 [boot_ps5000.dts]: /files/dts/boot_ps5000.dts
 
-## Differences among A12 and A13 models
+## Differences amomg A12 Models
 
-## A12 Rev A
+### A12 Rev A
 Function keys have a different mapping. B, C & D share the same mapping:
 ```shell
 *** boot_a12_rev_a.dts	2021-12-11 21:49:22.000000000 +0100
@@ -89,7 +89,7 @@ Function keys have a different mapping. B, C & D share the same mapping:
   		};
 ```
 
-### A12 Rev A & B
+### A12 Rev A & B
 Display is 1024x600, `bat_table` is also different from C & D.
 ```shell
 bat_table = <0x00 0x00 0x00 0x00 0xc8 0xc8 0xd98 0xe91 0xed3 0xf04 0xf22 0xf51 0xf89 0xfae 0xfbd 0xfcb 0x100d 0xd98 0xe91 0xed3 0xf04 0xf22 0xf51 0xf89 0xfae 0xfbd 0xfcb 0x100d>;
@@ -100,7 +100,7 @@ hactive = <0x400>;
 vactive = <0x258>;
 ```
 
-### A12 Rev C
+### A12 Rev C
 Display is 800x480, `bat_table` is also different from A & B.
 ```shell
 bat_table = <0x00 0x00 0x00 0x00 0xc8 0xc8 0xdb6 0xdc9 0xdcf 0xe28 0xe64 0xe83 0xec1 0xefa 0xf2e 0xf3d 0xf6f 0xdb6 0xdc9 0xdcf 0xe28 0xe64 0xe83 0xec1 0xefa 0xf2e 0xf3d 0xf6f>;
@@ -111,7 +111,7 @@ hactive = <0x320>;
 vactive = <0x1e0>;
 ```
 
-## A12 Rev D
+### A12 Rev D
 Same as **Rev C**, except `clock-frequency` (probably due to a new display):
 ```shell
 clock-frequency = <0x2191c00>;
