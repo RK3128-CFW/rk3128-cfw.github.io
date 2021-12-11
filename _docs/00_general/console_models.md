@@ -33,6 +33,10 @@ label: wip
 
 ### A12 Rev A
 Function keys have a different mapping. B, C & D share the same mapping:
+
+{::options parse_block_html="true" /}
+<details>
+  <summary markdown="span"> <span class="collapsable"> Click to show/hide details </span> </summary>
 ```shell
 *** boot_a12_rev_a.dts	2021-12-11 21:49:22.000000000 +0100
 --- boot_a12_rev_b.dts	2021-12-10 22:04:03.000000000 +0100
@@ -88,9 +92,15 @@ Function keys have a different mapping. B, C & D share the same mapping:
   			linux,code = <0x4e>;
   		};
 ```
+</details>
+{::options parse_block_html="false" /}
 
 ### A12 Rev A & B
 Display is 1024x600, `bat_table` is also different from C & D.
+  
+{::options parse_block_html="true" /}
+<details>
+  <summary markdown="span"> <span class="collapsable"> Click to show/hide details </span> </summary>
 ```shell
 bat_table = <0x00 0x00 0x00 0x00 0xc8 0xc8 0xd98 0xe91 0xed3 0xf04 0xf22 0xf51 0xf89 0xfae 0xfbd 0xfcb 0x100d 0xd98 0xe91 0xed3 0xf04 0xf22 0xf51 0xf89 0xfae 0xfbd 0xfcb 0x100d>;
 
@@ -99,9 +109,15 @@ clock-frequency = <0x47b7600>;
 hactive = <0x400>;
 vactive = <0x258>;
 ```
-
+</details>
+{::options parse_block_html="false" /}
+  
 ### A12 Rev C
 Display is 800x480, `bat_table` is also different from A & B.
+  
+{::options parse_block_html="true" /}
+<details>
+  <summary markdown="span"> <span class="collapsable"> Click to show/hide details </span> </summary>
 ```shell
 bat_table = <0x00 0x00 0x00 0x00 0xc8 0xc8 0xdb6 0xdc9 0xdcf 0xe28 0xe64 0xe83 0xec1 0xefa 0xf2e 0xf3d 0xf6f 0xdb6 0xdc9 0xdcf 0xe28 0xe64 0xe83 0xec1 0xefa 0xf2e 0xf3d 0xf6f>;
 
@@ -110,6 +126,8 @@ clock-frequency = <0x3e2df80>;
 hactive = <0x320>;
 vactive = <0x1e0>;
 ```
+</details>
+{::options parse_block_html="false" /}
 
 ### A12 Rev D
 Same as **Rev C**, except `clock-frequency` (probably due to a new display):

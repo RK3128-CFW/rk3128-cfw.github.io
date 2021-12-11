@@ -81,3 +81,5 @@ labels:
   - wip
   - tbd
   - stable
+
+markdown: kramdown
