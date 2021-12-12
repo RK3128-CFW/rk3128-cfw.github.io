@@ -6,15 +6,17 @@ label: wip
 ---
 
 | Console model | Rev | Display  | U-Boot DTS (Stock)    | Kernel DTS (Stock)  |
-| ------------- | --- | -------- | --------------------- | ------------------- |
-| Powkiddy A12  | A   | 1024x600 | [uboot_a12_rev_a.dts] | [boot_a12_rev_a.dts] |
-| Powkiddy A12  | B   | 1024x600 | [uboot_a12_rev_b.dts] | [boot_a12_rev_b.dts] |
-| Powkiddy A12  | C   | 800x480  | [uboot_a12_rev_c.dts] | [boot_a12_rev_c.dts] |
-| Powkiddy A12  | D   | 800x480  | [uboot_a12_rev_d.dts] | [boot_a12_rev_d.dts] |
-| Powkiddy A13  | A   | 1024x600 | [uboot_a13_rev_a.dts] | [boot_a13_rev_a.dts] |
-| Powkiddy A13  | B   | 1024x600 | To be added           | To be added          |
-| PS5000        | -   | 960x544  | [uboot_ps5000.dts]    | [boot_ps5000.dts]    |
-| PS7000        | -   | 1024x600 | To be added           | To be added          |
+| ------------- |:---:| --------:| --------------------- | ------------------- |
+| Powkiddy A12  | A   | 1024 x 600 | [uboot_a12_rev_a.dts] | [boot_a12_rev_a.dts] |
+| Powkiddy A12  | B   | 1024 x 600 | [uboot_a12_rev_b.dts] | [boot_a12_rev_b.dts] |
+| Powkiddy A12  | C   | 800 x 480  | [uboot_a12_rev_c.dts] | [boot_a12_rev_c.dts] |
+| Powkiddy A12  | D   | 800 x 480  | [uboot_a12_rev_d.dts] | [boot_a12_rev_d.dts] |
+|
+| Powkiddy A13  | A   | 1024 x 600 | [uboot_a13_rev_a.dts] | [boot_a13_rev_a.dts] |
+| Powkiddy A13  | B   | 1024 x 600 | To be added           | To be added          |
+|
+| PS5000        | -   | 960 x 544  | [uboot_ps5000.dts]    | [boot_ps5000.dts]    |
+| PS7000        | -   | 1024 x 600 | To be added           | To be added          |
 
 [uboot_a12_rev_a.dts]: /files/dts/uboot_a12_rev_a.dts
 [uboot_a12_rev_b.dts]: /files/dts/uboot_a12_rev_b.dts
@@ -97,7 +99,7 @@ Function keys have a different mapping. B, C & D share the same mapping:
 
 ### A12 Rev A & B
 Display is 1024x600, `bat_table` is also different from C & D.
-  
+
 {::options parse_block_html="true" /}
 <details>
   <summary markdown="span"> <span class="collapsable"> Click to show/hide details </span> </summary>
@@ -111,10 +113,10 @@ vactive = <0x258>;
 ```
 </details>
 {::options parse_block_html="false" /}
-  
+
 ### A12 Rev C
 Display is 800x480, `bat_table` is also different from A & B.
-  
+
 {::options parse_block_html="true" /}
 <details>
   <summary markdown="span"> <span class="collapsable"> Click to show/hide details </span> </summary>
