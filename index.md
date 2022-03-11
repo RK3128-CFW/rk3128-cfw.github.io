@@ -2,8 +2,8 @@
 title: Welcome
 ---
 
-There are several consoles based on rockchip 3128 board, among them:
-* Powkiddy A12 & A13 (bothe have several hardware revisions including different
+There are several consoles based on rockchip 3128 boards, among them:
+* Powkiddy A12 & A13 (both have several hardware revisions including different
   displays).
 * PS5000
 * PS7000
