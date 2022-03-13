@@ -1,6 +1,6 @@
 ---
 title: Alpha 1 Released
-type: documentation
+type: releases
 ---
 
 Batocera 33 for PS5000 and Powkiddy A12/13 has been released.
