@@ -2,7 +2,6 @@
 title: Compile Batocera image
 category: Development
 order: 1
-label: tbd
 ---
 
 # Compilation Steps
@@ -32,8 +31,8 @@ make rk3128-build
 Depending on your system this may take more or less, but it will be about 1-4 hours
 
 Once the build is complete, you should find the generated images in these path:
-```output/rk3128/images/batocera/images/ps5000```
-```output/rk3128/images/batocera/images/powkiddy_a13```
+* ```output/rk3128/images/batocera/images/ps5000```
+* ```output/rk3128/images/batocera/images/powkiddy_a13```
 
 You will find the following files there:
 - batocera-rk3128-ps5000-33-20220311.img.gz (this is the SDCard firmware)
