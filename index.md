@@ -28,4 +28,4 @@ As part of this effort we have focused on [batocera](https://batocera.org) compa
 |-------|----------|------|
 | Powikddy A12/A13 (all revisions) | [Batocera 33 for Powkiddy A12/13](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_33_alpha_2) | 2022-03-14 |
 | PS5000 | [Batocera 33 for PS5000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps5000_batocera_33_alpha_1) | 2022-03-14 |
-| PS7000 | [Batocera 33 for PS5000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps7000_batocera_33_alpha_1) | 2022-03-14 |
+| PS7000 | [Batocera 33 for PS7000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps7000_batocera_33_alpha_1) | 2022-03-14 |
