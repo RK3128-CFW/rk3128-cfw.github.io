@@ -2,6 +2,7 @@
 title: Welcome
 ---
 
+# Introduction 
 There are several consoles based on Rockchip RK3128 boards, among them:
 * Powkiddy A12 & A13 (both have several hardware revisions including different
   displays).
@@ -15,7 +16,11 @@ therefore breaching the GPL license its software is based upon. This page is a
 summary of the efforts to develop an open source firmware based on the available
 open source u-boot and kernels.
 
-As part of this effort we have focus on [batocera](https://batocera.org) compatibility.
+As part of this effort we have focused on [batocera](https://batocera.org) compatibility to get a full-fledged firmware.
+
+# Getting Started
+
+* Read the [installation page](https://rk3128-cfw.github.io/01_getting_started/1_Installation/) to get started.
 
 # Latest release
 
