@@ -2,6 +2,8 @@
 title: Welcome
 ---
 
+[![powkiddy a13 badge](https://img.shields.io/badge/powkiddy%20a13-34__alpha__3-blue)](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_34_alpha_3) [![ps5000 badge](https://img.shields.io/badge/PS5000-34__alpha__3-blue)](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps5000_batocera_34_alpha_3) [![ps7000 badge](https://img.shields.io/badge/PS7000-34__alpha__3-blue)](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps7000_batocera_34_alpha_3)
+
 # Introduction 
 There are several consoles based on Rockchip RK3128 boards, among them:
 * Powkiddy A12 & A13 (both have several hardware revisions including different
