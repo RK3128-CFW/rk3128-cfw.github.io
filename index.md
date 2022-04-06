@@ -26,7 +26,7 @@ As part of this effort we have focused on [batocera](https://batocera.org) compa
 
 | Model | Firmware | Date |
 |-------|----------|------|
-| Powikddy A12/A13 (all revisions) | [Batocera 33 for Powkiddy A12/13](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_33_alpha_2) | 2022-03-14 |
+| Powkiddy A12/A13 (all revisions) | [Batocera 33 for Powkiddy A12/13](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_33_alpha_2) | 2022-03-14 |
 | PS5000 | [Batocera 34 for PS5000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps5000_batocera_34_alpha_2) | 2022-03-30 |
 | PS7000 | [Batocera 34 for PS7000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps7000_batocera_34_alpha_2) | 2022-03-30 |
 
@@ -34,7 +34,7 @@ As part of this effort we have focused on [batocera](https://batocera.org) compa
 
 | Model | Firmware | Date |
 |-------|----------|------|
-| Powikddy A12/A13 (all revisions) | [Batocera 34 for Powkiddy A12/13](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_34_alpha_3) | 2022-04-06 |
+| Powkiddy A12/A13 (all revisions) | [Batocera 34 for Powkiddy A12/13](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_34_alpha_3) | 2022-04-06 |
 | PS5000 | [Batocera 34 for PS5000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps5000_batocera_34_alpha_3) | 2022-04-06 |
 | PS7000 | [Batocera 34 for PS7000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps7000_batocera_34_alpha_3) | 2022-04-06 |
 
