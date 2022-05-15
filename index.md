@@ -10,7 +10,7 @@ There are several consoles based on Rockchip RK3128 boards, among them:
   displays).
 * PS5000 (Also known as Q500 and LINTIAN LT-8203)
 * PS7000 (Also known as Q900)
-* Powkiddy X20
+* Powkiddy X2
 * Supbor Q400
 
 The original firmware (OFW) modifications have not been published by the vendor,
