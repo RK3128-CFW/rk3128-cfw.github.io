@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-[![powkiddy a13 badge](https://img.shields.io/badge/powkiddy%20a13-34__alpha__3-blue)](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_34_alpha_3) [![ps5000 badge](https://img.shields.io/badge/PS5000-34__alpha__3-blue)](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps5000_batocera_34_alpha_3) [![ps7000 badge](https://img.shields.io/badge/PS7000-34__alpha__3-blue)](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps7000_batocera_34_alpha_3)
+[![powkiddy a13 badge](https://img.shields.io/badge/powkiddy%20a13-34__alpha__4-blue)](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_34_alpha_4) [![ps5000 badge](https://img.shields.io/badge/PS5000-34__alpha__4-blue)](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps5000_batocera_34_alpha_4) [![ps7000 badge](https://img.shields.io/badge/PS7000-34__alpha__4-blue)](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps7000_batocera_34_alpha_4)
 
 # Introduction 
 There are several consoles based on Rockchip RK3128 boards, among them:
@@ -36,7 +36,7 @@ As part of this effort we have focused on [batocera](https://batocera.org) compa
 
 | Model | Firmware | Date |
 |-------|----------|------|
-| Powkiddy A12/A13 (all revisions) | [Batocera 34 for Powkiddy A12/13](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_34_alpha_3) | 2022-04-06 |
-| PS5000 | [Batocera 34 for PS5000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps5000_batocera_34_alpha_3) | 2022-04-06 |
-| PS7000 | [Batocera 34 for PS7000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps7000_batocera_34_alpha_3) | 2022-04-06 |
+| Powkiddy A12/A13 (all revisions) | [Batocera 34 for Powkiddy A12/13](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/a13_batocera_34_alpha_4) | 2022-05-15 |
+| PS5000 | [Batocera 34 for PS5000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps5000_batocera_34_alpha_4) | 2022-05-15 |
+| PS7000 | [Batocera 34 for PS7000](https://github.com/RK3128-CFW/rk3128-cfw.github.io/releases/tag/ps7000_batocera_34_alpha_4) | 2022-05-15 |
 
